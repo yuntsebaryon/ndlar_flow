@@ -2,7 +2,7 @@ classname: RunData
 path: module0_flow.resources.run_data
 params:
   path: 'run_info'
-  runlist_file: 'data/slacube_flow/test.txt'
+  runlist_file: 'data/slacube_flow/slacube_2023_10_02.txt'
   # runlist_file: 'data/module0_flow/runlist-mod0-run1.txt'
   #runlist_file: 'data/module0_flow/runlist-mod0-run2.txt'
   # download link: https://portal.nersc.gov/project/dune/data/Module0/runlist.txt
